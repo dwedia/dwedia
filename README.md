@@ -11,7 +11,9 @@
 
 
 ### Tools
- - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Mainly using Red Hat Enterprise Linux and derivatives, but I also have some experience with Debian based 
+ - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> Mainly using Red Hat Enterprise Linux and derivatives, but I also have some experience with Debian based distributions
+ 
+ - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> I manage our IT departments Git implementation. I keep trying to learn more, so I can teach my collegues the way of git
 
 
 ### Stats
