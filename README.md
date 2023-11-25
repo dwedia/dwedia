@@ -2,11 +2,13 @@
 
 ### About me:
 
-- I am a Linux Systemsadministrator, currently working in the healthcare sector
+- 😄 I am a Linux Systemsadministrator, currently working in the healthcare sector
 
-- I am a cat enthusiast, who currently shares my home with 4 cats
+- 😸 I am a cat enthusiast, who currently shares my home with 4 cats
 
-- I am a firm believer in the need to keep learning, and this leads me to experiment with al sorts of projects. Many of them fail, but I learn from them.
+- 📕 I am a firm believer in the need to keep learning, and this leads me to experiment with al sorts of projects. Many of them fail, but I learn from them.
+
+- 🎧 While working, I can often be seen to be headbanging slightly to Heavy Metal Music.
 
 
 
@@ -22,6 +24,8 @@
  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" /> My container implementation of choice is Podman.
 
  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Before learning podman, I was using docker. This is where I learned working with containers
+ 
+  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> Notetaking and brain dumps are done in markdown. Most often in 
 
 ### Stats
 
