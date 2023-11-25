@@ -15,6 +15,7 @@
  
  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> I manage our IT departments Git implementation. I keep trying to learn more, so I can teach my collegues the way of git
 
+ - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" /> I try to implement Ansible as a way of managing servers and services whereever I can, both at work, and in my private homelab. This challenges me to keep learning more and more about Ansible
 
 ### Stats
 
