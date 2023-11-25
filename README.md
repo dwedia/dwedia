@@ -12,7 +12,7 @@
 
 ### Tools
 
-- ![](images/linux-original.svg)
+- 
 
 ### Stats
 
