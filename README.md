@@ -25,7 +25,7 @@
 
  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> Before learning podman, I was using docker. This is where I learned working with containers
  
-  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> Notetaking and brain dumps are done in markdown. Most often in 
+  - <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /> Notetaking and brain dumps are done in markdown. Most often in bsidian
 
 ### Stats
 
