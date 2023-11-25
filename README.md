@@ -2,11 +2,17 @@
 
 ### About me:
 
-- I am a Linux Systemsadministrator
+- I am a Linux Systemsadministrator, currently working in the healthcare sector
 
 - I am a cat enthusiast, who currently shares my home with 4 cats
 
 - I am a firm believer in the need to keep learning, and this leads me to experiment with al sorts of projects. Many of them fail, but I learn from them.
+
+
+
+### Tools
+
+- ![](images/linux-original.svg)
 
 ### Stats
 
